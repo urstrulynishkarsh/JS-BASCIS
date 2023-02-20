@@ -75,4 +75,4 @@ while(c>0){
 do{
     console.log(c);
     c--;
-}while(c<100);
+}while(c>100);
